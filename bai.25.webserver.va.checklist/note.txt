@@ -1,0 +1,6 @@
+1 máy chủ js cần gì:
+- tổ chức các đoạn mã nguồn thành các phần tử có thể tái sử dụng
+- khả năng xử lý file
+- kết nối truy cập db
+- tiếp nhập request và reponse các kết quả
+- có cách xử lý cviec mất nhiều thời gian
