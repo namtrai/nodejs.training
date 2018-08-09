@@ -1,0 +1,6 @@
+ES6 Template Literals
+
+- Là 1 chuỗi mẫu cho phép nhúng các biểu thức để nối các chuỗi trong JS (ES6)
+- Giúp lập trình nhanh chóng và tiện lợi
+- Để sử dụng template Literal, sử dụng `` và các biểu thức cho vào trong $()
+
