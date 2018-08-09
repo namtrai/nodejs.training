@@ -1,0 +1,8 @@
+khi dùng call {sẽ áp dụng cho biến đã gọi phía trước
+}
+- Tương tự với apply, đối tượng sẽ bị thay đổi
+
+khác nhau:
+khi dùng call thì các giá trị truyền vào dưới dạng danh sách "giá trị 1", "Giá trị 2"
+Khi dùng apply thì giá trị truyền vào dưới dạng mảng ["giá trị 1',"giá trị 2"]
+
