@@ -1,0 +1,3 @@
+Thực thi code ko đồng bộ
+- JS thực thi code đồng bộ : 1 dòng lệnh đc thực hiện vào 1 thời điểm
+    -> NodeJS thực thi code không đồng bộ: nhiều việc khác cùng lúc, bao gồm cả thực thi JS trong v8 engine.

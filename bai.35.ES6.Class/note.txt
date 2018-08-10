@@ -1,0 +1,4 @@
+để sử dụng class trong nodejs, phải khai báo nghiêm ngặt về cú pháp: 'use strict'; ở đầu tiên
+=> cách khai báo biến, sử dụng biến, hàm.... sẽ bị kiểm tra
+
+trong node 8 ko cần khai báo 'use strict'; để sử dụng class

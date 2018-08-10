@@ -1,3 +1,8 @@
 Event vs Event Emitter
 Event?
-- 
+- system Event
+    - den tu trong core cua nodejs (c++ core)
+    - libuv -> ko the kiem soat, chi co the xu ly
+- custom event
+    - den tu trong javascript core. (JS core)
+    - event emitter -> co the cau hinh, thiet lap

@@ -1,0 +1,2 @@
+Một hàm callback là 1 function đc truyền vào 1 lời gọi function khác
+-> nó được thực thi vào 1 thời điểm trong tương lai khi hoàn tất 1 công việc nào đó.
